@@ -3,7 +3,7 @@
 | Name | Student Number |
 | --- | --- |
 | James Hackett | 20308896 |
-| Amy Collins | |
+| Amy Collins | 19348616 |
 
 ## How to run the code
 
